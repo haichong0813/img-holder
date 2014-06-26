@@ -1,0 +1,29 @@
+{
+  "name": "img-holder",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.7",
+    "jade": "*"
+  },
+  "description": "一个图片占位符服务",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haichong0813/img-holder.git"
+  },
+  "keywords": [
+    "img",
+    "holder"
+  ],
+  "author": "rufeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haichong0813/img-holder/issues"
+  },
+  "homepage": "https://github.com/haichong0813/img-holder"
+}
